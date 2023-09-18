@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=event
+comment1.target=Nodo(Event)
+comment2.params=event\ antes\ despues
+comment2.target=Nodo(Event,\ Nodo,\ Nodo)
+comment3.params=
+comment3.target=Event\ getEvent()
+comment4.params=event
+comment4.target=void\ setEvent(Event)
+comment5.params=
+comment5.target=Nodo\ getNext()
+comment6.params=next
+comment6.target=void\ setNext(Nodo)
+comment7.params=
+comment7.target=Nodo\ getAntes()
+comment8.params=antes
+comment8.target=void\ setAntes(Nodo)
+comment9.params=
+comment9.target=void\ imprimirSiguiente()
+numComments=10

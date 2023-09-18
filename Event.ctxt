@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Event
+comment1.params=data\ scientist
+comment1.target=Event(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getData()
+comment3.params=
+comment3.target=java.lang.String\ getScientist()
+comment4.params=
+comment4.target=java.lang.String\ getEventType()
+comment5.params=eventType
+comment5.target=void\ setEventType(java.lang.String)
+comment6.params=scientist
+comment6.target=void\ setScientist(java.lang.String)
+comment7.params=
+comment7.target=void\ displayEvent()
+numComments=8
